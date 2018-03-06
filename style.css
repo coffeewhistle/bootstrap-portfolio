@@ -3,3 +3,31 @@
     width: 960px;
     margin: 0 auto;
 }
+
+.background {
+    background-image: url("assets/background.png");
+}
+
+.body-text {
+    background-color: white;
+    padding: 30px;
+}
+
+.profile-image {
+    width: 300px;
+    height: auto;
+    padding: 20px;
+}
+
+footer {
+    height: 100px;
+    text-align: center;
+}
+
+.main-body {
+    margin:20px auto 20px auto;
+}
+
+.portfolio {
+    margin: 20px 10px 20px 10px;
+}
